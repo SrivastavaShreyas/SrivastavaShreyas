@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: love to play guitar, chess, 
 
 -->
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com | LinedIn" width="22px" src="https://www.linkedin.com/in/shreyas-srivastava-50a970166/" />][linedin]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shreyas-srivastava-50a970166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>

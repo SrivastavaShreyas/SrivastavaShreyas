@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com | LinedIn" width="22px" src="https://www.linkedin.com/in/shreyas-srivastava-50a970166" />][linedin]
+[<img align="left" alt="codeSTACKr.com | LinedIn" width="22px" src="https://www.linkedin.com/in/shreyas-srivastava-50a970166/" />][linedin]

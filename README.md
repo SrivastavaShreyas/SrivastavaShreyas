@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, I'm Shreyas</h1>
 <h3 align="center"> DevOps and Cloud Enthusiast<h3>
-  <h3 align="center">Musician by Heart | Soul and Engineer by Profession<h3>
+  <h3 align="center">Musician by Heart | Soul and Coder by Profession<h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

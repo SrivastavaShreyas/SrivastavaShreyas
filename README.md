@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
 
 <img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
-
+    <br\>
 <p align="left"> 
 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -37,3 +37,4 @@ Here are some ideas to get you started:
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     </p>
     
+    <br\>

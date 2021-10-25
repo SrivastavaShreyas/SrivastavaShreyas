@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyas-srivastava-50a970166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyas-srivastava-50a970166/">
+  <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a>
+<a href = "mailto: shreyassrivastava98@gmail.com">
+  <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+</a>
+<br>
+<img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">

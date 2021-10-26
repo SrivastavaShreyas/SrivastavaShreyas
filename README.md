@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 <a href="https://www.geeksforgeeks.org/data-structures/"> <img align="left" width="50px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png" /></a>
 <a href="http://www.cplusplus.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
 <a href="https://www.python.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
+<a href="https://www.mysql.com/"> <img align="left" width="50px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" /></a>
 <br><br>
 <h4 align="left">Library:</h4>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"> <img align="left" width="50px" src="https://img.icons8.com/fluency/48/000000/flask.png" /></a>
+<a href="https://aws.amazon.com/sdk-for-python/"> <img align="left" width="50px" src="https://i0.wp.com/python.gotrained.com/wp-content/uploads/2019/02/boto3.png?fit=300%2C300&ssl=1" /></a>
+
 <br><br>
 <h4 align="left">Operating System:</h4>
 <a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>

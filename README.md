@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 <br><br>
 <h4 align="left">Operating System:</h4>
 <a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
+<a href="https://www.apple.com/ug/macos/catalina/"> <img align="left" width="50px" src="https://img.icons8.com/office/16/000000/mac-os.png" /></a>
+
 <br><br>
 <h4 align="left">Cloud:</h4>
 <a href="https://aws.amazon.com/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>

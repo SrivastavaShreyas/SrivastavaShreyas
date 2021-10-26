@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
     </p>
-  
+  <br>
 <h3 align="left">Tools and Technology:</h3>
 <p align="left">
   

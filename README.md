@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
 <p align="left"> 
-<a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/ios-glyphs/30/000000/linux.png" /></a>
+  <br\>
+    <h3 align="left">Tools and Technology:</h3>
+<p align="left">
+  
+<a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
    <!-- 
     <a href="https://www.python.org"> <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/> </a> 
     

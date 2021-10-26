@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href = "mailto: shreyassrivastava98@gmail.com"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/gmail.png" /> </a>
 </p>
 <br>
-  
+<br>
 <h3 align="left">Tools and Technology:</h3>
 <p align="left">
 <a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>

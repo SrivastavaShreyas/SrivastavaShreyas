@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h3 align="left">Tools and Technology:</h3>
-<br><br>
+<br>
 <p align="left">
 <h4 align="left">Languages:</h4>
 <a href="https://www.geeksforgeeks.org/data-structures/"> <img align="left" width="50px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png" /></a>

@@ -51,14 +51,15 @@ Here are some ideas to get you started:
 <br><br>
 <h4 align="left">DevOps Tools:</h4>
 <a href="https://www.atlassian.com/devops"> <img align="left" width="50px" src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png" /></a>
-<br>
+<br><br>
 <h5 align="left">Continuous Development Tools:</h5>
 <a href="https://github.com/SrivastavaShreyas/SrivastavaShreyas/"> <img align="left" width="50px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" /></a>
 <a href="https://bitbucket.org/product"> <img align="left" width="50px" src="https://img.icons8.com/ios/50/000000/bitbucket.png" /></a>
-
+<br>
 <br>
 <h5 align="left">Continuous Integration Tool:</h5>
 <a href="https://www.jenkins.io/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>
+<br>
 <br>
 <h5 align="left">Continuous Monitoring Tools:</h5>
 <a href="https://www.elastic.co/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" /></a>

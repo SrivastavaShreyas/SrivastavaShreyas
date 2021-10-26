@@ -26,12 +26,9 @@ Here are some ideas to get you started:
 <a href = "mailto: shreyassrivastava98@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
-
-<img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
-<p align="left"> 
     </p>
   
-    <h3 align="left">Tools and Technology:</h3>
+<h3 align="left">Tools and Technology:</h3>
 <p align="left">
   
 <a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
@@ -44,3 +41,5 @@ Here are some ideas to get you started:
     
     <br\>
 -->
+<img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
+<p align="left"> 

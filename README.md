@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 </a>
 
 <img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
-
-  <br\>
 <p align="left"> 
 
     <a href="https://www.python.org"> <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/> </a> 

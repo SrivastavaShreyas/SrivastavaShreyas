@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <a href="https://aws.amazon.com/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>
   
 <br><br>
-<h4 align="left">DevOps Tools:</h4>
-<a href="https://www.atlassian.com/devops"> <img align="left" width="50px" src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png" /></a>
+<h4 align="left">DevOps Tools:
+<a href="https://www.atlassian.com/devops"> <img width="50px" src="https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png" /></a></h4>
 <br><br>
 <h5 align="left">--Continuous Development Tools:</h5>
 <a href="https://github.com/SrivastavaShreyas/SrivastavaShreyas/"> <img align="left" width="50px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" /></a>

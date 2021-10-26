@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
 <p align="left"> 
-<a href="https://icons8.com/icon/17842/linux">Linux icon by Icons8</a>
+<a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
    <!-- 
     <a href="https://www.python.org"> <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/> </a> 
     

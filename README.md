@@ -26,14 +26,24 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h3 align="left">Tools and Technology:</h3>
+<br><br>
 <p align="left">
-<a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
+<h4 align="left">Languages:</h4>
+<a href="https://www.geeksforgeeks.org/data-structures/"> <img align="left" width="50px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png" /></a>
 <a href="http://www.cplusplus.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
 <a href="https://www.python.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
-<a href="https://www.jenkins.io/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>
+<br><br>
+<h4 align="left">Library:</h4>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"> <img align="left" width="50px" src="https://img.icons8.com/fluency/48/000000/flask.png" /></a>
+<br><br>
+<h4 align="left">Operating System:</h4>
+<a href="https://www.linux.org/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
+<br><br>
+<h4 align="left">Cloud:</h4>
 <a href="https://aws.amazon.com/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>
-<a href="https://www.geeksforgeeks.org/data-structures/"> <img align="left" width="50px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png" /></a>
+<br><br>
+<h4 align="left">DevOps Tools:</h4>
+<a href="https://www.jenkins.io/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>
 <a href="https://www.elastic.co/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" /></a>
 <a href="https://www.elastic.co/kibana/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/kibana.png" /></a>
 <a href="https://www.elastic.co/logstash/"> <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/logstash.png" /></a>

@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://eng64hrnquaxti9.m.pipedream.net">
 <p align="left"> 
-
+<a href="https://icons8.com/icon/17842/linux">Linux icon by Icons8</a>
+   <!-- 
     <a href="https://www.python.org"> <img src="https://img.icons8.com/color/50/000000/linux--v1.png"/> </a> 
-    <!--  
+    
     <a href="https://git-scm.com/" > <img src="https://img.icons8.com/color/48/000000/git.png" /> </a> 
     <a href="https://www.jenkins.io" > <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     </p>
